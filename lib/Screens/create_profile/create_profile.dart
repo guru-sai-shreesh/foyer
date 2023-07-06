@@ -60,6 +60,7 @@ class _CreateProfileState extends ConsumerState<CreateProfile> {
     ref.refresh(selectedTextSizeProvider);
 
     Navigator.of(context).pop();
+    Navigator.of(context).pop();
   }
 
   String _getLocationKey(double latitude, double longitude) {
