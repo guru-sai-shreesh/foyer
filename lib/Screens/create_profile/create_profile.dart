@@ -4,8 +4,6 @@ import 'package:foyer/model/DeviceProfileModel.dart';
 import 'package:foyer/model/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
-import 'package:provider/provider.dart';
-import 'package:rounded_modal/rounded_modal.dart';
 
 import '../../AppStateProvider.dart';
 
