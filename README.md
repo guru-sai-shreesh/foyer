@@ -1,7 +1,7 @@
 # foyer
 A new Flutter project.
 
-To run an existing Flutter project from a GitHub repository, follow these steps:
+To run Foyer, follow these steps:
 
 1. Clone the repository: Open your terminal or command prompt and navigate to the directory where you want to store the project. Then run the following command to clone the repository:
    ```
@@ -30,7 +30,7 @@ To run an existing Flutter project from a GitHub repository, follow these steps:
    flutter run
    ```
 
-   This command will build the project and deploy it to the connected device or emulator.
+   This command will build the project and deploy it to the connected device or can use F5 to RUN.
 
 Make sure you have Flutter SDK installed and properly configured before attempting these steps. Also, ensure that your development environment meets the project's specific requirements, such as the Flutter SDK version and any additional dependencies mentioned in the project's documentation or README file.
 
